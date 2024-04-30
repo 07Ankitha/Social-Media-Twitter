@@ -37,10 +37,9 @@ Install my-project with npm
     
 ## Screenshots
 
-![Signup](https://drive.google.com/file/d/1LGSeuYHvO_GeZyfwYlRnbHpXVuLxihVx/view?usp=drive_link)
+![Signup](https://github.com/07Ankitha/Social-Media-Twitter/assets/156890727/b5339811-06ee-4918-9606-de4c49ce0bf2)
 
-![Home Page](https://drive.google.com/file/d/1RNIsjPOxgtX6UC3KcbTu0PvHAOE3Qfqq/view?usp=drive_link)
-
+![HomePage](https://github.com/07Ankitha/Social-Media-Twitter/assets/156890727/f4a7376c-9832-4b89-9b22-d93590fa83e7)
 
 
 
